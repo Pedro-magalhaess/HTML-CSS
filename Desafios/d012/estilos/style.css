@@ -1,10 +1,13 @@
 @charset "UTF-8"; 
 
+@import url('https://fonts.googleapis.com/css2? family= Passion+One:wght@400;700;900 & display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family= Sriracha & display = swap');
 
 :root{
-    --font2:'Cordel', cursiva;
-    --font3:'Dancing Script', cursiva;
+    --font1:Verdana, Geneva, Tahoma, sans-serif;
+    --font2:'Passion One', cursiva;
+    --font3:'Sriracha', cursiva;
 }
 
 *{
@@ -15,7 +18,7 @@
 html, body{
     min-height: 100vh;
     background-color: rgb(56, 56, 56);
-    font-family:var(--font3);
+    font-family:var(--font1);
 }
 
 header{
