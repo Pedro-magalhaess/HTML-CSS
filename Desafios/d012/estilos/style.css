@@ -63,7 +63,7 @@ section{
 }
 
 section > p{
-    padding: 2em;
+    padding: 0.5em;
 }
 
 section.normal{
