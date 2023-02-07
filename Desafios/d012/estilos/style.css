@@ -59,6 +59,7 @@ section{
     padding-left: 30px;
     font-family:var(--font3);
     font-size: 3.5vh;
+    font-variant: small-caps;
 }
 
 section > p{
