@@ -20,9 +20,9 @@ body{
 }
 main{
     background-color: rgba(255, 255, 255, 0.842);
-    width: 90vw;
+    width: 300px;
     margin: auto;
-    margin: 20px;
+    margin-top: 20px;
     border-radius: 10px;
     padding: 10px;
 }
